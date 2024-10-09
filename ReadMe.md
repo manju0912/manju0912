@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi,<br>- I'm Manju Gurung, an aspiring Frontend Developer seeking a Frontend Dev role to leverage my tech skills.<br>- As a freelancer, I've successfully delivered 8+ WordPress websites and oversaw 15+ client projects in the past 1.5 years, showcasing independent thriving capabilities.<br>- I'm proficient in HTML/CSS, JavaScript, React JS, and Tailwind CSS, with a keen eye for front-end development.<br>- Driven by an unwavering dedication to excellence, I'm eager to reignite my passion for technology and make a significant impact in frontend development.
+Hi,<br>- I'm Manju Gurung, an aspiring Frontend Developer seeking a Frontend Dev role to leverage my tech skills. I am currently working as a Jr. Webflow Developer.<br>- As a freelancer, I've successfully delivered 8+ WordPress websites and oversaw 15+ client projects in the past 1.5 years, showcasing independent thriving capabilities.<br>- I'm proficient in HTML/CSS, JavaScript, React JS, and Tailwind CSS, with a keen eye for front-end development.<br>- Driven by an unwavering dedication to excellence, I'm eager to reignite my passion for technology and make a significant impact in frontend development.
 
 
 ## 🌐 Socials:
